@@ -7,4 +7,27 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <style name="MenuFont">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">#FFFFFF00</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">right|center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="ExitFont">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">#FFFF6a17</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">right|center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
 </resources>
